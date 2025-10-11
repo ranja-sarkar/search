@@ -8,5 +8,9 @@ whose scales are within a closed interval. Hybrid search is sort of a ‘sum’ 
 
 
 The methods used to merge the lexical and semantic search results to get to a hybrid search query have been well explained in the article by Elastic Search service.
-📌https://www.elastic.co/search-labs/blog/hybrid-search-elasticsearch
+
+📌 https://www.elastic.co/search-labs/blog/hybrid-search-elasticsearch
+
+Other hybrid search engines are Snowflake Cortex Search and Azure AI Search. Enhance your search experience by combining the precision of keyword search and the context understanding of semantic search and crafting hybrid search queries.
+
 
