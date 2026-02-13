@@ -10,22 +10,19 @@ Later in 2021, [AlphaFold2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8592092/) w
 <img width="467" height="272" alt="af2" src="https://github.com/user-attachments/assets/a4f1492e-77f8-4827-87d1-74d3af50c8d1" />
 
 
-But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x) the paper about computationally designing proteins with deep learning neural networks was published. In this study, the neural network or deep learning approach was taken to design a protein for predicting the probability of 20 natural amino acids on each residue in it. 
+But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x), the paper about computationally designing proteins with deep learning neural networks was published. In this study, the neural network or deep learning approach was taken to design a protein for predicting the probability of 20 natural amino acids on each residue in it. 
 
 <img width="592" height="173" alt="res" src="https://github.com/user-attachments/assets/e4257dee-d4ac-4daf-8167-44893276749a" />
 
 
 # My work 
 
-In 2016 and 2017, I had tried to design the full structure of human retinoblastoma (Rb) protein from parts, using ROBETTA. 
+In 2016 and 2017, I had tried to design the full structure of human retinoblastoma (Rb) protein from parts, using Robetta. The linker (RbPL) between two domains A and B of this protein is highly dynamic and its structure was not known.	
 
 <img width="486" height="314" alt="01" src="https://github.com/user-attachments/assets/2875e8d6-75bb-43de-9e77-0b5d6a494185" />
-
-The linker (RbPL) between two domains A and B of this protein is highly dynamic and its structure was not known.	
-
 <img width="263" height="103" alt="02" src="https://github.com/user-attachments/assets/fcf4cfb3-7e3b-4b5b-a768-001a65055f50" />
 
-I managed to model a full-length linker structure utilizing what was available then, like ROBETTA and [ITASSER](https://link.springer.com/article/10.1186/1471-2105-9-40).
+I managed to model a full-length linker structure utilizing what was available then, like Robetta and [ITASSER](https://link.springer.com/article/10.1186/1471-2105-9-40).
 The web service [ITASSER](https://aideepmed.com/I-TASSER/) is accessible since 2008. 
 
 <img width="308" height="96" alt="03" src="https://github.com/user-attachments/assets/b1b3755b-a505-4f84-8b9a-679665f57c13" />
