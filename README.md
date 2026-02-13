@@ -1,4 +1,4 @@
-# Evolution of protein structure predicture 
+# Evolution of how protein structure is predicted 
 
 [Robetta](https://pmc.ncbi.nlm.nih.gov/articles/PMC441606/) is a tool that utilizes comparative modeling or de novo methods ([Rosetta](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0076687904830040?via%3Dihub)) to predict the structure of a protein. It was back in 2004 when the Robetta web service was used. 
 
