@@ -25,7 +25,7 @@ In 2016 and 2017, I had tried to design the full structure of human retinoblasto
 <img width="263" height="103" alt="02" src="https://github.com/user-attachments/assets/fcf4cfb3-7e3b-4b5b-a768-001a65055f50" />
 
 I managed to model a full-length linker structure utilizing what was available then, like Robetta and [ITASSER](https://link.springer.com/article/10.1186/1471-2105-9-40).
-The web service [ITASSER](https://aideepmed.com/I-TASSER/) is accessible since 2008. 
+The web service [ITASSER](https://aideepmed.com/I-TASSER/) is accessible since 2008. I could not publish my work though, there was not much I could do to validate and evaluate the predicted structures and arrive at the optimal one. 
 
 <img width="308" height="96" alt="03" src="https://github.com/user-attachments/assets/b1b3755b-a505-4f84-8b9a-679665f57c13" />
 
