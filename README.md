@@ -1,4 +1,4 @@
-# Evolution of how protein structure is predicted 
+# Evolution of prediction of protein structure 
 
 [Robetta](https://pmc.ncbi.nlm.nih.gov/articles/PMC441606/) is a tool that utilizes comparative modeling or *de novo* methods ([Rosetta](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0076687904830040?via%3Dihub)) to predict the structure of a protein. It was back in 2004 when the Robetta web service was used. 
 
@@ -15,8 +15,14 @@ But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x) th
 <img width="592" height="173" alt="res" src="https://github.com/user-attachments/assets/e4257dee-d4ac-4daf-8167-44893276749a" />
 
 
-Around 2016-2017, I had tried to design full structure of human retinoblastoma (Rb) protein from parts using ROBETTA. The linker (RbPL) between two domains of the protein is highly dynamic and its structure was not known.	
-In 2018, t
+Around 2016-2017, I had tried to design the full structure of human retinoblastoma (Rb) protein from parts using ROBETTA. The linker (RbPL) between two domains of this protein is highly dynamic and its structure was not known.	
+
+<img width="486" height="314" alt="01" src="https://github.com/user-attachments/assets/2875e8d6-75bb-43de-9e77-0b5d6a494185" />
+
+
+<img width="263" height="103" alt="02" src="https://github.com/user-attachments/assets/fcf4cfb3-7e3b-4b5b-a768-001a65055f50" />
+
+
 
 
 
