@@ -15,6 +15,8 @@ But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x) th
 <img width="592" height="173" alt="res" src="https://github.com/user-attachments/assets/e4257dee-d4ac-4daf-8167-44893276749a" />
 
 
+# My work 
+
 Around 2016-2017, I had tried to design the full structure of human retinoblastoma (Rb) protein from parts using ROBETTA. 
 
 <img width="486" height="314" alt="01" src="https://github.com/user-attachments/assets/2875e8d6-75bb-43de-9e77-0b5d6a494185" />
@@ -25,6 +27,10 @@ The linker (RbPL) between two domains A and B of this protein is highly dynamic 
 
 I managed to model a full-length linker structure utilizing what was available then, like ROBETTA and [ITASSER](https://link.springer.com/article/10.1186/1471-2105-9-40).
 [ITASSER](https://aideepmed.com/I-TASSER/) is also accessible as a web service to all since 2008. 
+
+<img width="308" height="96" alt="03" src="https://github.com/user-attachments/assets/b1b3755b-a505-4f84-8b9a-679665f57c13" />
+
+In 2024, arrived [AlphaFold3](https://www.nature.com/articles/s41586-024-07487-w) with a substantially updated diffusion-based architecture that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. And it is highly accurate. The [AlphaFold Server](https://alphafoldserver.com/welcome) is a web service made available to all by Google Deepmind, it is powered by the newest AlphaFold3 model.
 
 
 
