@@ -20,7 +20,7 @@ But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x) th
 
 # My work 
 
-Around 2016-2017, I had tried to design the full structure of human retinoblastoma (Rb) protein from parts using ROBETTA. 
+Around 2016-2017, I had tried to design the full structure of human retinoblastoma (Rb) protein from parts, using ROBETTA. 
 
 <img width="486" height="314" alt="01" src="https://github.com/user-attachments/assets/2875e8d6-75bb-43de-9e77-0b5d6a494185" />
 
