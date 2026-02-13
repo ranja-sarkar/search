@@ -26,7 +26,7 @@ The linker (RbPL) between two domains A and B of this protein is highly dynamic 
 <img width="263" height="103" alt="02" src="https://github.com/user-attachments/assets/fcf4cfb3-7e3b-4b5b-a768-001a65055f50" />
 
 I managed to model a full-length linker structure utilizing what was available then, like ROBETTA and [ITASSER](https://link.springer.com/article/10.1186/1471-2105-9-40).
-[ITASSER](https://aideepmed.com/I-TASSER/) is also accessible as a web service to all since 2008. 
+The web service [ITASSER](https://aideepmed.com/I-TASSER/) is accessible since 2008. 
 
 <img width="308" height="96" alt="03" src="https://github.com/user-attachments/assets/b1b3755b-a505-4f84-8b9a-679665f57c13" />
 
