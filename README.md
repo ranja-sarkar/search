@@ -38,7 +38,7 @@ In 2024, arrived [AlphaFold3](https://www.nature.com/articles/s41586-024-07487-w
 <img width="88" height="54" alt="m2" src="https://github.com/user-attachments/assets/9c53b643-e784-4661-ab7a-d1e0d9493cc0" />
 
 
-In 2017, neither did I know much about neural networks or deep learning nor did I have AlphaFold to predict the structure of RbPL. Maybe, now is a good time to restart the work utilizing AlphaFold, or it might already have been done and published. 
+In 2017, neither did I know much about [neural networks or deep learning](https://ranja-sarkar.github.io/2026/02/12/neural-network.html) nor did I have AlphaFold to use for prediction of the RbPL structure. Maybe, now is a good time to restart the work utilizing AlphaFold, or it might already have been done and published. 
 
 
 
