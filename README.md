@@ -19,7 +19,7 @@ But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x), t
 
 <img width="592" height="173" alt="res" src="https://github.com/user-attachments/assets/e4257dee-d4ac-4daf-8167-44893276749a" />
 
-I had switched over to the corporate sector in the later part of 2017 from academia and hence, scientific research. However, I did keep a track of things. 
+✔️ I had switched over to the corporate sector in the later part of 2017 from academia and hence, scientific research. However, I did keep a track of things. 
 
 # My work 
 
@@ -29,9 +29,13 @@ In 2016 and 2017, I had tried to design the full structure of human retinoblasto
 <img width="263" height="103" alt="02" src="https://github.com/user-attachments/assets/fcf4cfb3-7e3b-4b5b-a768-001a65055f50" />
 
 I managed to model a full-length linker structure utilizing what was available then, like Robetta and [ITASSER](https://link.springer.com/article/10.1186/1471-2105-9-40).
-The web service [ITASSER](https://aideepmed.com/I-TASSER/) is accessible since 2008. I could not publish my work though, there was not much I could do to validate and evaluate the predicted structures and arrive at the optimal one. 
+The web service [ITASSER](https://aideepmed.com/I-TASSER/) is accessible since 2008. 
 
 <img width="308" height="96" alt="03" src="https://github.com/user-attachments/assets/b1b3755b-a505-4f84-8b9a-679665f57c13" />
+
+I could not publish my work though, I had selected 3 structures for RbPL out of the predictions post my analysis. But there was not much solid and concrete I could do to validate and evaluate the predicted structures.  
+
+---
 
 In 2024, [AlphaFold3](https://www.nature.com/articles/s41586-024-07487-w) arrived with a substantially updated [diffusion-based architecture](https://www.ibm.com/think/topics/diffusion-models) that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. And it is highly accurate. The [AlphaFold Server](https://alphafoldserver.com/welcome) is a web service made available to all by **Google Deepmind**, it is powered by the newest **AlphaFold3 model**.
 
