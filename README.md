@@ -15,11 +15,11 @@ Later in 2021, [AlphaFold2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8592092/) w
 <img width="467" height="272" alt="af2" src="https://github.com/user-attachments/assets/a4f1492e-77f8-4827-87d1-74d3af50c8d1" />
 
 
-But before this in [2018](https://www.nature.com/articles/s41598-018-24760-x), the paper about computationally designing proteins with deep learning neural networks was published. In this study, the neural network or deep learning approach was taken to design a protein for predicting the probability of 20 natural amino acids on each residue in it. 
+In [2018](https://www.nature.com/articles/s41598-018-24760-x), the paper about computationally designing proteins with deep learning neural networks was published. In this study, the neural network or deep learning approach was taken to design a protein for predicting the probability of 20 natural amino acids on each residue in it. 
 
 <img width="592" height="173" alt="res" src="https://github.com/user-attachments/assets/e4257dee-d4ac-4daf-8167-44893276749a" />
 
-✔️ I had switched over to the corporate sector in the later part of 2017 from academia and hence, scientific research. However, I did keep a track of things. 
+✔️ I had switched over to the corporate sector in the later part of 2017 from academia and scientific research. However, I did keep a track of things. 
 
 # My work 
 
@@ -39,9 +39,9 @@ I could not publish my work though, I had selected 3 structures for RbPL out of 
 
 In 2024, [AlphaFold3](https://www.nature.com/articles/s41586-024-07487-w) arrived with a substantially updated [diffusion-based architecture](https://www.ibm.com/think/topics/diffusion-models) that is capable of predicting the joint structure of complexes including proteins, nucleic acids, small molecules, ions and modified residues. And it is highly accurate. The [AlphaFold Server](https://alphafoldserver.com/welcome) is a web service made available to all by **Google Deepmind**, it is powered by the newest **AlphaFold3 model**.
 
-In 2017, neither did I know much about [neural networks or deep learning](https://ranja-sarkar.github.io/2026/02/12/neural-network.html) nor did I have AlphaFold to use for prediction of the RbPL structure. Maybe, now is a good time to restart the work utilizing AlphaFold.
+In 2017, neither did I know much about [neural networks or deep learning](https://ranja-sarkar.github.io/2026/02/12/neural-network.html) nor did I have AlphaFold to use for prediction of the RbPL structure. Maybe, now is a good time to restart the work (from where I left off) utilizing AlphaFold.
 
-Or maybe, it has already been published! 
+Or maybe, the work by now has been published by some research group across the globe! 
 
 
 
