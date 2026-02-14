@@ -4,7 +4,7 @@
 <img width="88" height="54" alt="m2" src="https://github.com/user-attachments/assets/9c53b643-e784-4661-ab7a-d1e0d9493cc0" />
 
 
-[Robetta](https://pmc.ncbi.nlm.nih.gov/articles/PMC441606/) is a tool that utilizes comparative modeling or *de novo* methods ([Rosetta](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0076687904830040?via%3Dihub)) to predict the structure of a protein. It was back in 2004 when the Robetta web service was available. 
+[Robetta](https://pmc.ncbi.nlm.nih.gov/articles/PMC441606/) is a tool that utilizes comparative modeling or *de novo* methods ([Rosetta](https://www.sciencedirect.com/science/chapter/bookseries/abs/pii/S0076687904830040?via%3Dihub)) to predict the structure of a protein. It was back in 2004 when the Robetta web service became available to all. 
 
 💡 **Fast forward to 2021**
 
